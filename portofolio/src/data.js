@@ -130,7 +130,7 @@ export const listProyek = [
     nama: "Website Pariwisata",
     desk: "Website informasi wisata Gunung Rinjani yang menampilkan keindahan alam, informasi pendakian, dan daya tarik destinasi melalui antarmuka yang responsif.",
     tools: ["HTML", "CSS", "Javascript"],
-    link: "https://rinjanimyadventure.vercel.app/jajal.html",
+    link: "https://rinjanimyadventure.vercel.app/",
     dad: "200",
   },
   {
