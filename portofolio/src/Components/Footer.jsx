@@ -29,6 +29,13 @@ const Footer = () => {
         >
           <i className="ri-youtube-fill ri-2x"></i>
         </a>
+        <a
+          href="https://www.linkedin.com/in/aditya-saputra-1559b1344"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="ri-linkedin-fill ri-2x"></i>
+        </a>
       </div>
     </div>
   );
