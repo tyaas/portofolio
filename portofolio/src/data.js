@@ -119,7 +119,7 @@ export const listTools = [
 import Proyek1 from "/assets/proyek/proyek1.png";
 import Proyek2 from "/assets/proyek/proyek2.png";
 import Proyek3 from "/assets/proyek/proyek3.png";
-import Proyek4 from "/assets/proyek/proyek4.webp";
+import Proyek4 from "/assets/proyek/proyek4.png";
 import Proyek5 from "/assets/proyek/proyek5.webp";
 import Proyek6 from "/assets/proyek/proyek6.webp";
 
@@ -151,14 +151,14 @@ export const listProyek = [
     link: "https://drive.google.com/drive/folders/1DNMhp_XTdgPAot6R67oH5TsC4NXN6r0U?usp=sharing",
     dad: "400",
   },
-  // {
-  //   id: 4,
-  //   gambar: Proyek4,
-  //   nama: "Website Course",
-  //   desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-  //   tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
-  //   dad: "500",
-  // },
+  {
+    id: 4,
+    gambar: Proyek4,
+    nama: "Point of Sale (POS) Application",
+    desk: "Aplikasi POS berbasis web untuk mengelola produk dan kategori.",
+    tools: ["Laravel", "ReactJS", "Inertia.js", "MySQL", "Tailwind CSS"],
+    dad: "500",
+  },
   // {
   //   id: 5,
   //   gambar: Proyek5,
